@@ -2,7 +2,7 @@
 
 - I'm currently learning Python
 
-- 📫 reach me at contact at builtbyalex dot com 
+- 📫 reach me at contact at builtbyalex dot dev
 
 
 <!---
